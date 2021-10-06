@@ -10,9 +10,9 @@ The emulator software is available at https://github.com/abaffa/sol-1_emulator.
 
 ---
 
-#### Emulator Terminal:
+![baffa-1_panel](_images/baffa-1_panel.jpg)
 
-![baffa1_panel](_images/baffa-1_panel.png)
+![baffa-1_architecture](_images/baffa-1_architecture.png)
 
 ---
 
